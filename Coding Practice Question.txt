@@ -1,0 +1,314 @@
+Write a program to add 5 numbers. The value of numbers are num1=5, num2=13, num3=7, num4=21 and num5=48.
+
+Write a program to take a number input from user and determine whether the number is odd or even.
+
+Write a program to find the maximum and minimum out of two given numbers. The numbers are num1=129 and num2=251.
+
+Write a program to find the maximum out of three given numbers. The numbers are num1=8, num2=23 and num3=17.
+
+Write a program to find the minimum out of three given numbers. The numbers are num1=35, num2=29 and num3=46.
+
+Write program to take a month as an input from the user and find out whether the month has 31 days or not.
+
+Given a and b, your function should return the value of ab
+Example:
+Input: power(2,3) ––> Output: 8
+
+Given length of a regular hexagon, your function should return area of the hexagon.
+Example:
+Input: areaOfHexagon(10) ––> Output: 259.80
+
+Given a sentence, your functions should return the number of words in the sentence.
+Example:
+Input: noOfWords(We are team) ––> Output: 3
+Given n numbers, your function should return the minimum of them all. The number of parameters won't be accepted from user.
+Example:
+Input: findMin(3,5) ––> Output: 3
+Input: findMin(3,5,9,1) ––> Output: 1
+(Hint: Lookup rest parameters in JavaScript)
+
+Given n numbers, your function should return the maximum of them all. The number of parameters won't be accepted from user.
+Example:
+Input: findMax(3,5) ––> Output: 5
+Input: findMax(3,5,9,1) ––> Output: 9
+(Hint: Lookup rest parameters in JavaScript)
+
+Given three angles of a triange, your function should return if it is a scalene, isosceles, equilateral triangle or not a triangle at all. Example:
+Input: typeOfTriangle(30, 60, 90) ––> Output: Scalene Triangle
+
+Given an array, your function should return the length of the array.
+Example:
+Input: arrayLength([1,5,3,7,8]) ––> Output: 5
+
+Given an array and an item, your function should return the index at which the item is present.
+Example:
+Input: indexOf([1,6,3,5,8,9], 3) ––> Output: 2
+
+Given an array and two numbers, your function should replace all entries of first number in an array with the second number.
+Example:
+Input: replace([1,5,3,5,6,8], 5, 10) ––> Output: [1,10,3,10,6,8]
+
+Given two arrays, your function should return single merged array.
+Example:
+Input: mergeArray([1,3,5], [2,4,6]) ––> Output: [1,3,5,2,4,6]
+
+Given a string and an index, your function should return the character present at that index in the string.
+Example:
+Input: charAt("neoGcamp", 4) ––> Output: c
+
+Given two dates, your function should return which one comes before the other.
+Example:
+Input: minDate('02/05/2021', '24/01/2021') ––> Output: 24/01/2021
+
+Write a function which generates a secret code from a given string, by shifting characters of alphabet by N places. Example:
+
+Explanation: 2 represents shifting alphabets by 2 places. a –> c, b –> d, c –> e and so on.
+Given a sentence, return a sentence with first letter of all words as capital.
+Example:
+Input: toSentenceCase('we are teaM') ––> Output: We Are TeaM
+
+Given an array of numbers, your function should return an array in the ascending order.
+Example:
+Input: sortArray([100,83,32,9,45,61]) ––> Output: [9,32,45,61,83,100]
+
+Given a sentence, your function should reverse the order of characters in each word, keeping same sequence of words.
+
+Print the following star pattern :-
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+Write a program to take a number input from user and print multiplication table 12 times for that number.
+
+Write a program to return a Fibonacci series : 0,1,1,2,3,5,8,13,21....
+
+Write a program to take an input from a user and find its Factorial. Example: Factorial of 5 is 120
+
+Write a Program to take a number input from user and find if the number is Prime or not.
+
+Write a program to take a day as an input and determine whether it is a weekday or weekend. Example: Tuesday is weekday.
+
+Write a program to input 2 numbers and display the sum of the numbers to the console.
+Input Number 1: 20
+Input Number 2: 40
+Sum : 60
+
+Write a JavaScript program to calculate the simple interest given P,R,T with the given formula. Formula: SI = (P * T * R) / 100 Where: P = principal amount T = time R = rate SI = simple interest
+Input: P=100, R=6%, T=2
+Output: 12
+
+Write a program to calculate the kinetic energy of a body with mass 'm' and volume 'v'.
+Formula : 0.5 * m * v * v
+
+Write a program to convert Fahrenheit to Celsius. For Fahrenheit to Celsius conversion use: C = (F - 32) * 5/9 'F' and 'C' are the temperatures on the Fahrenheit scale and Celsius scale respectively.
+Input: 56
+Output: 13.33333
+
+Calculate the area, perimeter of a square of side 'a'. Also, calculate the surface area and the volume of a cube of side 'a'.
+Formula :
+
+Area: a*a
+
+Perimeter: 4*a
+
+Surface Area: 6*a*a
+
+Volume: a*a*a
+
+Given the Cost Price(CP) and Selling Price(SP) of a product. Write a Program to Calculate the Profit or Loss.
+Input: CP = 1500, SP = 2000
+Output: 500 Profit
+Input: CP = 3125, SP = 1125
+Output: 2000 Loss
+
+Write a program to calculate sum of N natural digits, as input by the users?
+Enter a positive integer: 100
+Sum = 5050
+
+Write a Program to Print N Odd Number in Descending Order.
+Input : 4
+Output : 7
+5
+3
+1
+
+Write a JavaScript program to compute the sum of all digits that occur in a given string.
+Input: 1234
+Output: 1+2+3+4 = 10
+
+Write a JavaScript program that reverses a number.
+Example:
+Input:  32243;
+Output:  34223
+
+Write a Program to cyclically Rotate a Number by X positions in the left direction, as provided by the user.
+Example-
+Enter a Number : 1234
+Enter the Number of Rotations : 2
+Output : 3412
+
+Write a Program to convert Decimal to Binary.
+
+Enter the number to convert: 5
+Binary of Given Number is=101
+Follow up Question : Write a Program to Convert Octal to Decimal.
+Enter an octal number: 116
+Octal of Given Number = 78 in decimal
+
+Write a program that converts the string into uppercase
+
+Write a program that reads two strings and append first string to the second. So if first string is Good second string is Morning , the program should print MorningGood
+
+Program that reads string and count number of characters present in the string
+
+Write a program that converts string like "124" to 124
+
+Write a program to delete all vowels from a string. Assume string is not more than 80 characters long
+
+Write a program to check whether the string is alphanumeric or not , eg:batman@45 contains digit 45
+
+A program that reads three strings and prints the longest and smallest one
+
+A program that counts number of vowels and consonants in a String?
+
+Write a program which receives a string str that calculates the length of a string and return true if the length is greater than 7 without using strlen()
+
+Write a program that takes two strings and copies smaller string into bigger string
+
+Given a string, determine if it is a palindrome, considering only alphanumeric characters
+
+For a given input string(str), write a function to print all the possible substrings.Without using substr method
+
+Write a program that removes the time from the given date string "Wed April 15, 7pm". It should return only the date without the time.
+
+Write a program that masks all but last four characters of the string "5565534276455423" to '#'
+
+Given a string "tic tac toe is a fun game" convert the first 6 characters to capital case
+
+Given an input string S and two characters c1 and c2, you need to replace every occurrence of character c1 with character c2 in the given string
+
+Given an input string S that contains multiple words, you need to remove all the spaces present in the input string. There can be multiple spaces present after any word
+
+Reverse the given string word wise. That is, the last word in given string should come at 1st place, last second word at 2nd place and so on. Individual words should remain as it is. example: Input : Welcome to NeoG Camp → Camp NeoG to Welcome
+
+A program that counts the value of each character and prints the most repeated character?
+
+Write a program to toggle case of each character of the string "good afternoon" (example: "neogcamp" ⇒ "nEoGcAmP" )
+
+Given a string "how was your day?" and a word "how", write a program that removes the occurrence of the specified word from given sentence. ( input: string⇒"programming camp are amazing",word⇒ "programming"; output:" camp are amazing")
+
+Find sum of an array and display the output . Example [10,4,5,2,5,6,9].
+
+Find average of an array and display the output.
+
+Find maximum and minimum of an array.
+
+Find Median and Mode of an array.
+Median : (N+1/2)th term.
+Mode : Most repeating term
+
+Find sum of two arrays.
+[3,5,2,9,4] = 3+5+2+9+4 = 23
+[6,2,8,1,3] = 6+2+8+1+3 = 20
+Final Output : 20+23 = 43
+
+Find number of constants and vowels in a string.
+
+Shift an array by X to right.
+Example [1,2,3,4,5] after shifting to right [5,1,2,3,4]
+
+Given an array of objects of student's marks:
+Print the name and total marks of each student.
+Print the name of student whose total marks is highest.
+Print the name of student whose total marks is lowest.
+Print the average marks of the class in computer subject.
+Print the grades of all students:
+Grade A if total marks is higher than or equal to 75%,
+Grade B if higher than or equal to 60%,
+Grade C if higher than or equal to 35%,
+Grade D if lower than 35%.
+Print the total number of students passed and their names. Pass when total marks is greater than 35%.
+
+const studentDetails = [
+	{
+		roll: "1",
+		name: "Rohan Singh",
+		maths: 86,
+		science: 90,
+		english: 75,
+		computer: 85
+	},
+	{
+		roll: "2",
+		name: "Ritvik Patel",
+		maths: 27,
+		science: 30,
+		english: 35,
+		computer: 30
+	},
+	{
+		roll: "3",
+		name: "Neha Maurya",
+		maths: 75,
+		science: 69,
+		english: 40,
+		computer: 75
+	},
+	{
+		roll: "4",
+		name: "Mohit Verma",
+		maths: 21,
+		science: 31,
+		english: 45,
+		computer: 40
+	},
+	{
+		roll: "5",
+		name: "Karan Trivedi",
+		maths: 70,
+		science: 80,
+		english: 35,
+		computer: 60
+	}
+];
+
+
+Given an array of objects of items in cart, print:
+the total No. of items
+the total cart value
+the total discounted value(sum of dicounted values on each item) based on the given discount
+total tax amount (18% tax, calculated on total cart value)
+
+const cartItems = [
+	{
+		id: "101",
+		name: "Oreo",
+		count: 2,
+		price: 30.0,
+		discount: 0.18
+	},
+	{
+		id: "102",
+		name: "Red Bull",
+		count: 1,
+		price: 99.0,
+		discount: 0.15
+	},
+	{
+		id: "103",
+		name: "Dairy Milk Silk",
+		count: 3,
+		price: 175.0,
+		discount: 0.05
+	},
+	{
+		id: "104",
+		name: "Pulse Candy Pack",
+		count: 1,
+		price: 135.0,
+		discount: 0.2
+	}
+];
